@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background: #1a0f22;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.column {
+    flex-direction: column;
+}
+
+.logo {
+    z-index: 100;
+    margin: 2px;
+}
+
+h1 {
+    color: whitesmoke;
+    cursor: pointer;
+}
